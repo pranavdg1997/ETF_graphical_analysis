@@ -3,7 +3,7 @@
  * First clone the repository by 
 
  ```sh
-git clone 
+git clone https://github.com/pranavdg1997/ETF_graphical_analysis.git
 ```
  * Install requirements with 
  
