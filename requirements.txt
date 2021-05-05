@@ -1,0 +1,12 @@
+numpy
+pandas
+Cython
+wheel
+sklearn
+networkx
+python-louvain
+matplotlib
+seaborn
+plotly
+pyyaml
+streamlit
