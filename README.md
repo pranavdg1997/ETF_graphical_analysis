@@ -8,6 +8,8 @@ This repository is dedicated to a project on Exchange Traded Funds(ETF) analysis
 \
 The above dashboard let's us adjust settings before creating a graph representing individual ETFs or stocks nodes, while the edges represent relationships or lack thereof amongst the ETFs.
 
+##Instruction to run the app
+
  * First clone the repository by 
  ```sh
 git clone https://github.com/pranavdg1997/ETF_graphical_analysis.git
