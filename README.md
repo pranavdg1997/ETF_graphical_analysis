@@ -4,6 +4,8 @@ This repository is dedicated to a project on Exchange Traded Funds(ETF) analysis
 \
 \
 ![Demo of the dahboard](https://github.com/pranavdg1997/ETF_graphical_analysis/blob/main/assets/demo.gif)
+\
+\
 The above dashboard let's us adjust settings before creating a graph representing individual ETFs or stocks nodes, while the edges represent relationships or lack thereof amongst the ETFs.
 
  * First clone the repository by 
