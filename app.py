@@ -17,6 +17,11 @@ st.title("SP21: NETWORK SCIENCE: 10075 Project Presentation")
 configs = yaml.load(open("configs.yaml"),
     Loader=Loader)
 
+try:
+    os.mkdir("jsons")
+except:
+    pass
+
 etf_set = pd.read_csv(configs["dataset"])
 etf_set["Date"] = pd.to_datetime(etf_set["Date"])
 etf_set.sort_values(by="Date", inplace=True)
